@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main sitemap for Salla Theme Raed -->
+  
+  <!-- Homepage -->
+  <sitemap>
+    <loc>https://yourstore.salla.sa/sitemap-pages.xml</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </sitemap>
+  
+  <!-- Products -->
+  <sitemap>
+    <loc>https://yourstore.salla.sa/sitemap-products.xml</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </sitemap>
+  
+  <!-- Categories -->
+  <sitemap>
+    <loc>https://yourstore.salla.sa/sitemap-categories.xml</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </sitemap>
+  
+  <!-- Brands -->
+  <sitemap>
+    <loc>https://yourstore.salla.sa/sitemap-brands.xml</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </sitemap>
+  
+  <!-- Blog posts -->
+  <sitemap>
+    <loc>https://yourstore.salla.sa/sitemap-blog.xml</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </sitemap>
+  
+  <!-- Static pages -->
+  <sitemap>
+    <loc>https://yourstore.salla.sa/sitemap-static.xml</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </sitemap>
+  
+</sitemapindex>

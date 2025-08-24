@@ -1,0 +1,2003 @@
+/* TEAM */
+
+Developer: Salla Development Team
+Contact: developers@salla.sa
+Twitter: @SallaHQ
+Location: Riyadh, Saudi Arabia
+
+UI/UX Designer: Salla Design Team
+Contact: design@salla.sa
+Location: Riyadh, Saudi Arabia
+
+Project Manager: Salla Product Team
+Contact: product@salla.sa
+Location: Riyadh, Saudi Arabia
+
+/* THANKS */
+
+Tailwind CSS Team - For the amazing utility-first CSS framework
+Webpack Team - For the powerful module bundler
+Babel Team - For JavaScript compilation
+PostCSS Team - For CSS processing
+ESLint Team - For JavaScript linting
+Prettier Team - For code formatting
+Jest Team - For JavaScript testing
+Salla Community - For feedback and contributions
+Open Source Community - For inspiration and tools
+
+/* SITE */
+
+Last update: 2024/01/01
+Language: Arabic / English
+Doctype: HTML5
+IDE: Visual Studio Code, WebStorm
+Standards: HTML5, CSS3, ES6+, WCAG 2.1 AA
+Components: Twig, SCSS, JavaScript
+Frameworks: Tailwind CSS, Webpack
+Testing: Jest, Cypress, Lighthouse
+Deployment: Salla Platform
+Version Control: Git
+Repository: https://github.com/omom04922-spec/theme-raed
+
+/* FEATURES */
+
+- Progressive Web App (PWA) support
+- Responsive design for all devices
+- RTL (Right-to-Left) language support
+- Dark mode support
+- Accessibility compliant (WCAG 2.1 AA)
+- SEO optimized
+- Performance optimized
+- Modern JavaScript (ES6+)
+- CSS Grid and Flexbox layouts
+- Touch-friendly interface
+- Keyboard navigation support
+- Screen reader compatible
+- High contrast mode support
+- Reduced motion support
+- Internationalization (i18n) ready
+- Multiple payment gateways
+- Social media integration
+- Analytics integration
+- Search engine optimization
+- Core Web Vitals optimized
+- Image optimization
+- Lazy loading
+- Service worker caching
+- Offline support
+- Push notifications
+- Web app manifest
+- Structured data markup
+- Open Graph meta tags
+- Twitter Card meta tags
+- JSON-LD structured data
+- Breadcrumb navigation
+- Product reviews and ratings
+- Wishlist functionality
+- Product comparison
+- Advanced search and filtering
+- Shopping cart persistence
+- Guest checkout
+- Multiple shipping options
+- Coupon and discount codes
+- Newsletter subscription
+- Live chat integration
+- Customer support
+- Multi-language support
+- Multi-currency support
+- Tax calculation
+- Inventory management
+- Order tracking
+- Customer accounts
+- Order history
+- Address book
+- Payment history
+- Loyalty program
+- Referral program
+- Affiliate program
+- Vendor marketplace
+- Digital products
+- Subscription products
+- Bundle products
+- Variable products
+- Product variants
+- Product options
+- Product customization
+- Bulk pricing
+- Quantity discounts
+- Free shipping thresholds
+- Abandoned cart recovery
+- Email marketing
+- SMS marketing
+- Social media marketing
+- Influencer marketing
+- Content marketing
+- Blog integration
+- FAQ section
+- Help center
+- Documentation
+- Video tutorials
+- Community forum
+- User feedback
+- Bug reporting
+- Feature requests
+- Beta testing
+- A/B testing
+- Performance monitoring
+- Error tracking
+- Security scanning
+- Backup and restore
+- Data export
+- API integration
+- Webhook support
+- Third-party integrations
+- Custom development
+- White-label solution
+- Enterprise features
+- Scalability
+- High availability
+- Load balancing
+- CDN integration
+- Database optimization
+- Caching strategies
+- Security best practices
+- GDPR compliance
+- Privacy policy
+- Terms of service
+- Cookie policy
+- Data protection
+- User consent
+- Age verification
+- Content moderation
+- Spam protection
+- Fraud detection
+- Risk management
+- Compliance monitoring
+- Audit trails
+- Reporting and analytics
+- Business intelligence
+- Data visualization
+- Machine learning
+- Artificial intelligence
+- Personalization
+- Recommendation engine
+- Predictive analytics
+- Customer segmentation
+- Behavioral targeting
+- Dynamic pricing
+- Inventory forecasting
+- Demand planning
+- Supply chain management
+- Logistics optimization
+- Shipping automation
+- Returns management
+- Quality assurance
+- Customer satisfaction
+- Net Promoter Score
+- Customer lifetime value
+- Retention rate
+- Conversion rate
+- Average order value
+- Revenue per visitor
+- Cost per acquisition
+- Return on investment
+- Key performance indicators
+- Business metrics
+- Financial reporting
+- Tax reporting
+- Regulatory compliance
+- Industry standards
+- Best practices
+- Continuous improvement
+- Innovation
+- Future-ready
+
+/* TECHNOLOGIES */
+
+HTML5
+CSS3
+SCSS/Sass
+JavaScript (ES6+)
+Twig Templating
+Tailwind CSS
+Webpack
+Babel
+PostCSS
+ESLint
+Prettier
+Stylelint
+Jest
+Cypress
+Lighthouse
+PWA
+Service Workers
+Web App Manifest
+IndexedDB
+Local Storage
+Session Storage
+Fetch API
+Intersection Observer
+Mutation Observer
+Resize Observer
+Performance Observer
+Web Workers
+Shared Workers
+Broadcast Channel
+Channel Messaging
+Server-Sent Events
+WebSockets
+WebRTC
+Web Audio API
+Web Video API
+Canvas API
+WebGL
+Web Animations API
+CSS Animations
+CSS Transitions
+CSS Grid
+CSS Flexbox
+CSS Custom Properties
+CSS Modules
+CSS-in-JS
+Styling Libraries
+Icon Libraries
+Font Libraries
+Image Optimization
+Video Optimization
+Audio Optimization
+Compression
+Minification
+Tree Shaking
+Code Splitting
+Lazy Loading
+Prefetching
+Preloading
+Critical Resource Hints
+Resource Prioritization
+Performance Budgets
+Core Web Vitals
+Lighthouse Audits
+WebPageTest
+GTmetrix
+PageSpeed Insights
+Chrome DevTools
+Firefox DevTools
+Safari DevTools
+Edge DevTools
+Browser Testing
+Cross-browser Compatibility
+Device Testing
+Accessibility Testing
+Security Testing
+Performance Testing
+Load Testing
+Stress Testing
+Usability Testing
+User Experience Testing
+A/B Testing
+Multivariate Testing
+Conversion Rate Optimization
+Search Engine Optimization
+Social Media Optimization
+Content Optimization
+Image SEO
+Video SEO
+Local SEO
+Mobile SEO
+Voice Search Optimization
+Featured Snippets
+Rich Snippets
+Structured Data
+Schema Markup
+JSON-LD
+Microdata
+RDFa
+Open Graph
+Twitter Cards
+Facebook Meta Tags
+LinkedIn Meta Tags
+Pinterest Meta Tags
+WhatsApp Meta Tags
+Telegram Meta Tags
+Canonical URLs
+Hreflang Tags
+Robots Meta Tags
+Sitemap XML
+Robots.txt
+Humans.txt
+Security.txt
+.well-known
+Manifest.json
+Browserconfig.xml
+Favicon
+Apple Touch Icons
+Android Icons
+Windows Tiles
+Safari Pinned Tabs
+Theme Color
+Mask Icon
+Startup Images
+Splash Screens
+App Icons
+Notification Icons
+Badge Icons
+Shortcut Icons
+Installation Prompts
+App Banners
+Add to Home Screen
+Standalone Mode
+Fullscreen Mode
+Minimal UI Mode
+Browser Mode
+Display Modes
+Orientation Lock
+Theme Colors
+Background Colors
+Status Bar Styles
+Navigation Styles
+Gesture Navigation
+Touch Events
+Pointer Events
+Keyboard Events
+Mouse Events
+Wheel Events
+Drag and Drop
+Clipboard API
+File API
+Geolocation API
+Notifications API
+Vibration API
+Battery API
+Network Information API
+Device Orientation API
+Screen Orientation API
+Fullscreen API
+Pointer Lock API
+Gamepad API
+Web Bluetooth
+Web USB
+Web NFC
+Web Share API
+Web Payments API
+Credential Management API
+Web Authentication API
+Permissions API
+Background Sync
+Push API
+Notification API
+Broadcast Channel API
+Message Channel API
+Shared Worker API
+Service Worker API
+Cache API
+IndexedDB API
+Web Storage API
+History API
+URL API
+FormData API
+Blob API
+ArrayBuffer API
+TypedArray API
+DataView API
+TextEncoder API
+TextDecoder API
+CompressionStream API
+DecompressionStream API
+ReadableStream API
+WritableStream API
+TransformStream API
+AbortController API
+AbortSignal API
+Promise API
+Async/Await
+Generators
+Iterators
+Symbols
+Proxy
+Reflect
+WeakMap
+WeakSet
+Map
+Set
+BigInt
+Intl API
+RegExp
+JSON
+Math
+Date
+Number
+String
+Array
+Object
+Function
+Error
+Boolean
+Null
+Undefined
+Symbol
+Primitive Types
+Reference Types
+Value Types
+Immutable Types
+Mutable Types
+Deep Copy
+Shallow Copy
+Object Destructuring
+Array Destructuring
+Spread Operator
+Rest Parameters
+Default Parameters
+Arrow Functions
+Template Literals
+Tagged Templates
+Modules
+Import/Export
+Dynamic Imports
+Top-level Await
+Optional Chaining
+Nullish Coalescing
+Logical Assignment
+Numeric Separators
+Private Fields
+Private Methods
+Static Fields
+Static Methods
+Class Fields
+Class Methods
+Class Constructors
+Class Inheritance
+Super Keyword
+Prototype Chain
+Prototypal Inheritance
+Object.create
+Object.assign
+Object.freeze
+Object.seal
+Object.preventExtensions
+Object.defineProperty
+Object.getOwnPropertyDescriptor
+Object.getOwnPropertyNames
+Object.getOwnPropertySymbols
+Object.keys
+Object.values
+Object.entries
+Object.fromEntries
+Array.from
+Array.of
+Array.isArray
+Array.prototype.map
+Array.prototype.filter
+Array.prototype.reduce
+Array.prototype.forEach
+Array.prototype.find
+Array.prototype.findIndex
+Array.prototype.some
+Array.prototype.every
+Array.prototype.includes
+Array.prototype.indexOf
+Array.prototype.lastIndexOf
+Array.prototype.slice
+Array.prototype.splice
+Array.prototype.concat
+Array.prototype.join
+Array.prototype.reverse
+Array.prototype.sort
+Array.prototype.push
+Array.prototype.pop
+Array.prototype.shift
+Array.prototype.unshift
+Array.prototype.fill
+Array.prototype.copyWithin
+Array.prototype.flat
+Array.prototype.flatMap
+String.prototype.charAt
+String.prototype.charCodeAt
+String.prototype.codePointAt
+String.prototype.concat
+String.prototype.includes
+String.prototype.indexOf
+String.prototype.lastIndexOf
+String.prototype.match
+String.prototype.matchAll
+String.prototype.replace
+String.prototype.replaceAll
+String.prototype.search
+String.prototype.slice
+String.prototype.split
+String.prototype.substring
+String.prototype.substr
+String.prototype.toLowerCase
+String.prototype.toUpperCase
+String.prototype.trim
+String.prototype.trimStart
+String.prototype.trimEnd
+String.prototype.padStart
+String.prototype.padEnd
+String.prototype.repeat
+String.prototype.startsWith
+String.prototype.endsWith
+String.prototype.normalize
+String.prototype.localeCompare
+String.prototype.toLocaleLowerCase
+String.prototype.toLocaleUpperCase
+RegExp.prototype.test
+RegExp.prototype.exec
+RegExp.prototype.toString
+RegExp.prototype.compile
+Date.now
+Date.parse
+Date.UTC
+Date.prototype.getTime
+Date.prototype.getFullYear
+Date.prototype.getMonth
+Date.prototype.getDate
+Date.prototype.getDay
+Date.prototype.getHours
+Date.prototype.getMinutes
+Date.prototype.getSeconds
+Date.prototype.getMilliseconds
+Date.prototype.getTimezoneOffset
+Date.prototype.setTime
+Date.prototype.setFullYear
+Date.prototype.setMonth
+Date.prototype.setDate
+Date.prototype.setHours
+Date.prototype.setMinutes
+Date.prototype.setSeconds
+Date.prototype.setMilliseconds
+Date.prototype.toDateString
+Date.prototype.toTimeString
+Date.prototype.toISOString
+Date.prototype.toJSON
+Date.prototype.toString
+Date.prototype.valueOf
+Math.abs
+Math.ceil
+Math.floor
+Math.round
+Math.trunc
+Math.sign
+Math.max
+Math.min
+Math.random
+Math.sqrt
+Math.pow
+Math.exp
+Math.log
+Math.sin
+Math.cos
+Math.tan
+Math.asin
+Math.acos
+Math.atan
+Math.atan2
+Math.PI
+Math.E
+Number.isInteger
+Number.isFinite
+Number.isNaN
+Number.isSafeInteger
+Number.parseFloat
+Number.parseInt
+Number.prototype.toFixed
+Number.prototype.toPrecision
+Number.prototype.toExponential
+Number.prototype.toString
+Number.prototype.valueOf
+Boolean.prototype.toString
+Boolean.prototype.valueOf
+Function.prototype.call
+Function.prototype.apply
+Function.prototype.bind
+Function.prototype.toString
+Error.prototype.name
+Error.prototype.message
+Error.prototype.stack
+Error.prototype.toString
+JSON.parse
+JSON.stringify
+console.log
+console.error
+console.warn
+console.info
+console.debug
+console.trace
+console.assert
+console.count
+console.countReset
+console.time
+console.timeEnd
+console.timeLog
+console.group
+console.groupCollapsed
+console.groupEnd
+console.table
+console.clear
+setTimeout
+setInterval
+clearTimeout
+clearInterval
+requestAnimationFrame
+cancelAnimationFrame
+requestIdleCallback
+cancelIdleCallback
+queueMicrotask
+structuredClone
+eval
+parseInt
+parseFloat
+isNaN
+isFinite
+decodeURI
+decodeURIComponent
+encodeURI
+encodeURIComponent
+escape
+unescape
+Btoa
+atob
+
+/* BROWSER SUPPORT */
+
+Chrome 90+
+Firefox 88+
+Safari 14+
+Edge 90+
+iOS Safari 14+
+Chrome Mobile 90+
+Firefox Mobile 88+
+Samsung Internet 14+
+Opera 76+
+Opera Mobile 64+
+UC Browser 13+
+Android Browser 90+
+KaiOS Browser 2.5+
+
+/* PERFORMANCE */
+
+First Contentful Paint: < 1.8s
+Largest Contentful Paint: < 2.5s
+First Input Delay: < 100ms
+Cumulative Layout Shift: < 0.1
+Time to Interactive: < 3.8s
+Speed Index: < 3.4s
+Total Blocking Time: < 200ms
+
+/* ACCESSIBILITY */
+
+WCAG 2.1 AA Compliant
+Keyboard Navigation
+Screen Reader Support
+High Contrast Mode
+Reduced Motion Support
+Focus Management
+ARIA Labels
+Semantic HTML
+Color Contrast Ratio: 4.5:1
+Touch Target Size: 44px minimum
+Text Scaling: 200% support
+Orientation Support
+Zoom Support: 500%
+
+/* SECURITY */
+
+Content Security Policy
+HTTPS Only
+Secure Cookies
+SameSite Cookies
+HTTP Strict Transport Security
+X-Frame-Options
+X-Content-Type-Options
+Referrer Policy
+Permissions Policy
+Cross-Origin Resource Policy
+Cross-Origin Embedder Policy
+Cross-Origin Opener Policy
+Subresource Integrity
+Input Validation
+Output Encoding
+SQL Injection Prevention
+XSS Prevention
+CSRF Protection
+Clickjacking Prevention
+Session Management
+Authentication
+Authorization
+Password Hashing
+Rate Limiting
+Brute Force Protection
+Account Lockout
+Two-Factor Authentication
+Multi-Factor Authentication
+Single Sign-On
+OAuth 2.0
+OpenID Connect
+JWT Tokens
+API Security
+Data Encryption
+Transport Layer Security
+End-to-End Encryption
+Privacy by Design
+Data Minimization
+Purpose Limitation
+Storage Limitation
+Accuracy
+Integrity
+Confidentiality
+Availability
+Accountability
+Transparency
+Lawfulness
+Fairness
+Consent Management
+Data Subject Rights
+Data Protection Impact Assessment
+Privacy Notice
+Cookie Consent
+GDPR Compliance
+CCPA Compliance
+PIPA Compliance
+LGPD Compliance
+Data Localization
+Data Residency
+Data Sovereignty
+Cross-Border Data Transfer
+Adequacy Decision
+Standard Contractual Clauses
+Binding Corporate Rules
+Certification
+Codes of Conduct
+Data Protection Officer
+Data Controller
+Data Processor
+Joint Controller
+Third-Party Processor
+Sub-Processor
+Data Processing Agreement
+Data Sharing Agreement
+Privacy Shield
+Safe Harbor
+Model Clauses
+International Data Transfer
+Data Export
+Data Import
+Data Mapping
+Data Inventory
+Data Classification
+Data Lifecycle
+Data Retention
+Data Deletion
+Data Anonymization
+Data Pseudonymization
+Data Masking
+Data Tokenization
+Data Loss Prevention
+Data Breach Notification
+Incident Response
+Forensic Investigation
+Business Continuity
+Disaster Recovery
+Backup and Restore
+High Availability
+Load Balancing
+Failover
+Redundancy
+Scalability
+Elasticity
+Cloud Computing
+Edge Computing
+Content Delivery Network
+Caching
+Compression
+Optimization
+Monitoring
+Logging
+Alerting
+Reporting
+Analytics
+Metrics
+Dashboards
+Visualization
+Business Intelligence
+Data Science
+Machine Learning
+Artificial Intelligence
+Automation
+Orchestration
+DevOps
+Continuous Integration
+Continuous Deployment
+Infrastructure as Code
+Configuration Management
+Version Control
+Code Review
+Testing
+Quality Assurance
+Documentation
+Training
+Support
+Maintenance
+Updates
+Patches
+Upgrades
+Migration
+Legacy System Integration
+API Integration
+Third-Party Integration
+Custom Development
+White-Label Solution
+Multi-Tenant Architecture
+Microservices
+Serverless
+Containerization
+Kubernetes
+Docker
+Virtualization
+Hybrid Cloud
+Multi-Cloud
+Public Cloud
+Private Cloud
+On-Premises
+Edge Deployment
+Global Distribution
+Regional Deployment
+Local Deployment
+Mobile Deployment
+Desktop Deployment
+Web Deployment
+Progressive Web App
+Native App
+Hybrid App
+Cross-Platform
+Responsive Design
+Adaptive Design
+Mobile-First
+Desktop-First
+Touch-First
+Keyboard-First
+Accessibility-First
+Performance-First
+Security-First
+Privacy-First
+User-First
+Business-First
+Data-Driven
+Evidence-Based
+Best Practices
+Industry Standards
+Compliance
+Certification
+Auditing
+Testing
+Validation
+Verification
+Quality Control
+Quality Assurance
+Continuous Improvement
+Agile Development
+Scrum
+Kanban
+Lean
+DevOps
+Site Reliability Engineering
+Platform Engineering
+Cloud Native
+Twelve-Factor App
+Event-Driven Architecture
+Domain-Driven Design
+Test-Driven Development
+Behavior-Driven Development
+Acceptance Test-Driven Development
+Continuous Testing
+Shift-Left Testing
+Shift-Right Testing
+Chaos Engineering
+Reliability Engineering
+Performance Engineering
+Security Engineering
+Privacy Engineering
+Usability Engineering
+Accessibility Engineering
+Internationalization
+Localization
+Globalization
+Cultural Adaptation
+Language Support
+Regional Support
+Time Zone Support
+Currency Support
+Payment Method Support
+Shipping Method Support
+Tax Calculation
+Compliance Management
+Risk Management
+Governance
+Policy Management
+Procedure Management
+Process Management
+Workflow Management
+Project Management
+Product Management
+Program Management
+Portfolio Management
+Resource Management
+Capacity Management
+Demand Management
+Supply Management
+Inventory Management
+Order Management
+Customer Management
+Vendor Management
+Partner Management
+Stakeholder Management
+Communication Management
+Change Management
+Configuration Management
+Release Management
+Deployment Management
+Incident Management
+Problem Management
+Knowledge Management
+Asset Management
+Service Management
+Operations Management
+Maintenance Management
+Support Management
+Training Management
+Documentation Management
+Content Management
+Digital Asset Management
+Brand Management
+Marketing Management
+Sales Management
+Customer Relationship Management
+Supplier Relationship Management
+Partner Relationship Management
+Community Management
+Social Media Management
+Influencer Management
+Affiliate Management
+Channel Management
+Distribution Management
+Retail Management
+E-commerce Management
+Marketplace Management
+Platform Management
+Ecosystem Management
+Innovation Management
+Strategy Management
+Business Development
+Growth Hacking
+Lean Startup
+Design Thinking
+Human-Centered Design
+User Experience Design
+User Interface Design
+Interaction Design
+Visual Design
+Graphic Design
+Brand Design
+Product Design
+Service Design
+System Design
+Architecture Design
+Information Architecture
+Content Strategy
+Content Design
+Copywriting
+Technical Writing
+Documentation
+Help Content
+Tutorials
+Guides
+FAQs
+Knowledge Base
+Community Forum
+User Feedback
+Customer Support
+Live Chat
+Chatbot
+Virtual Assistant
+AI Assistant
+Machine Learning
+Natural Language Processing
+Computer Vision
+Speech Recognition
+Voice Synthesis
+Augmented Reality
+Virtual Reality
+Mixed Reality
+Extended Reality
+3D Graphics
+Animation
+Video
+Audio
+Music
+Sound Effects
+Voiceover
+Podcast
+Webinar
+Live Streaming
+Video Conferencing
+Collaboration Tools
+Productivity Tools
+Business Tools
+Developer Tools
+Design Tools
+Marketing Tools
+Analytics Tools
+SEO Tools
+Social Media Tools
+Email Marketing Tools
+Automation Tools
+Integration Tools
+API Tools
+Testing Tools
+Debugging Tools
+Profiling Tools
+Monitoring Tools
+Logging Tools
+Security Tools
+Privacy Tools
+Compliance Tools
+Audit Tools
+Reporting Tools
+Dashboard Tools
+Visualization Tools
+Data Tools
+Database Tools
+Cloud Tools
+Infrastructure Tools
+Deployment Tools
+CI/CD Tools
+Version Control Tools
+Code Review Tools
+Project Management Tools
+Communication Tools
+Documentation Tools
+Knowledge Management Tools
+Learning Management Tools
+Training Tools
+Support Tools
+Customer Service Tools
+Sales Tools
+Marketing Tools
+E-commerce Tools
+Payment Tools
+Shipping Tools
+Inventory Tools
+Accounting Tools
+Finance Tools
+HR Tools
+Recruitment Tools
+Performance Management Tools
+Employee Engagement Tools
+Workplace Tools
+Remote Work Tools
+Collaboration Tools
+Communication Tools
+Video Conferencing Tools
+File Sharing Tools
+Cloud Storage Tools
+Backup Tools
+Security Tools
+VPN Tools
+Password Management Tools
+Identity Management Tools
+Access Management Tools
+Privilege Management Tools
+Compliance Tools
+Risk Management Tools
+Governance Tools
+Policy Management Tools
+Audit Tools
+Reporting Tools
+Analytics Tools
+Business Intelligence Tools
+Data Science Tools
+Machine Learning Tools
+AI Tools
+Automation Tools
+RPA Tools
+Workflow Tools
+Process Management Tools
+BPM Tools
+ERP Tools
+CRM Tools
+SCM Tools
+PLM Tools
+CMS Tools
+DAM Tools
+MAM Tools
+PIM Tools
+MDM Tools
+CDM Tools
+DQM Tools
+ETL Tools
+ELT Tools
+Data Pipeline Tools
+Data Integration Tools
+Data Migration Tools
+Data Synchronization Tools
+Data Replication Tools
+Data Backup Tools
+Data Recovery Tools
+Data Archiving Tools
+Data Retention Tools
+Data Deletion Tools
+Data Anonymization Tools
+Data Masking Tools
+Data Encryption Tools
+Data Security Tools
+Data Privacy Tools
+Data Governance Tools
+Data Catalog Tools
+Data Lineage Tools
+Data Quality Tools
+Data Profiling Tools
+Data Discovery Tools
+Data Preparation Tools
+Data Transformation Tools
+Data Cleansing Tools
+Data Enrichment Tools
+Data Validation Tools
+Data Monitoring Tools
+Data Alerting Tools
+Data Visualization Tools
+Data Reporting Tools
+Data Analytics Tools
+Data Science Tools
+Machine Learning Tools
+Deep Learning Tools
+Neural Network Tools
+AI Development Tools
+ML Ops Tools
+Model Management Tools
+Experiment Tracking Tools
+Feature Store Tools
+Data Labeling Tools
+Annotation Tools
+Training Tools
+Inference Tools
+Deployment Tools
+Monitoring Tools
+Explainability Tools
+Fairness Tools
+Bias Detection Tools
+Model Validation Tools
+Model Testing Tools
+Model Governance Tools
+AI Ethics Tools
+Responsible AI Tools
+Trustworthy AI Tools
+Explainable AI Tools
+Interpretable AI Tools
+Transparent AI Tools
+Accountable AI Tools
+Fair AI Tools
+Unbiased AI Tools
+Inclusive AI Tools
+Accessible AI Tools
+Privacy-Preserving AI Tools
+Secure AI Tools
+Robust AI Tools
+Reliable AI Tools
+Safe AI Tools
+Beneficial AI Tools
+Human-Centered AI Tools
+Augmented Intelligence Tools
+Human-AI Collaboration Tools
+AI-Assisted Tools
+AI-Powered Tools
+Intelligent Tools
+Smart Tools
+Adaptive Tools
+Personalized Tools
+Contextual Tools
+Predictive Tools
+Proactive Tools
+Recommendation Tools
+Optimization Tools
+Automation Tools
+Orchestration Tools
+Integration Tools
+Platform Tools
+Ecosystem Tools
+Marketplace Tools
+App Store Tools
+Plugin Tools
+Extension Tools
+Add-on Tools
+Widget Tools
+Component Tools
+Library Tools
+Framework Tools
+SDK Tools
+API Tools
+Webhook Tools
+Event Tools
+Message Tools
+Notification Tools
+Alert Tools
+Dashboard Tools
+Widget Tools
+Gadget Tools
+App Tools
+Application Tools
+Software Tools
+Program Tools
+Utility Tools
+Service Tools
+Platform Tools
+System Tools
+Infrastructure Tools
+Cloud Tools
+Edge Tools
+Mobile Tools
+Desktop Tools
+Web Tools
+Browser Tools
+Extension Tools
+Bookmarklet Tools
+Userscript Tools
+Browser Automation Tools
+Web Scraping Tools
+Data Extraction Tools
+Content Extraction Tools
+Text Extraction Tools
+Image Extraction Tools
+Video Extraction Tools
+Audio Extraction Tools
+Metadata Extraction Tools
+Structured Data Extraction Tools
+Unstructured Data Extraction Tools
+Semi-Structured Data Extraction Tools
+Data Parsing Tools
+Data Processing Tools
+Data Analysis Tools
+Data Mining Tools
+Text Mining Tools
+Web Mining Tools
+Social Media Mining Tools
+Sentiment Analysis Tools
+Emotion Analysis Tools
+Opinion Mining Tools
+Topic Modeling Tools
+Keyword Extraction Tools
+Entity Recognition Tools
+Relationship Extraction Tools
+Knowledge Extraction Tools
+Information Extraction Tools
+Content Analysis Tools
+Document Analysis Tools
+Image Analysis Tools
+Video Analysis Tools
+Audio Analysis Tools
+Speech Analysis Tools
+Language Analysis Tools
+Translation Tools
+Localization Tools
+Internationalization Tools
+Globalization Tools
+Cultural Analysis Tools
+Cross-Cultural Tools
+Multi-Cultural Tools
+Diversity Tools
+Inclusion Tools
+Equity Tools
+Accessibility Tools
+Usability Tools
+User Experience Tools
+User Interface Tools
+Interaction Tools
+Design Tools
+Prototyping Tools
+Wireframing Tools
+Mockup Tools
+Sketch Tools
+Figma Tools
+Adobe Tools
+Canva Tools
+Graphic Design Tools
+Image Editing Tools
+Photo Editing Tools
+Video Editing Tools
+Audio Editing Tools
+Animation Tools
+3D Modeling Tools
+CAD Tools
+Rendering Tools
+Visualization Tools
+Charting Tools
+Graphing Tools
+Diagramming Tools
+Flowchart Tools
+Mind Mapping Tools
+Concept Mapping Tools
+Knowledge Mapping Tools
+Process Mapping Tools
+Journey Mapping Tools
+Service Mapping Tools
+System Mapping Tools
+Architecture Tools
+Modeling Tools
+Simulation Tools
+Testing Tools
+Validation Tools
+Verification Tools
+Quality Tools
+Performance Tools
+Security Tools
+Privacy Tools
+Compliance Tools
+Audit Tools
+Governance Tools
+Risk Tools
+Management Tools
+Leadership Tools
+Strategy Tools
+Planning Tools
+Execution Tools
+Monitoring Tools
+Control Tools
+Optimization Tools
+Improvement Tools
+Innovation Tools
+Creativity Tools
+Ideation Tools
+Brainstorming Tools
+Collaboration Tools
+Communication Tools
+Presentation Tools
+Documentation Tools
+Knowledge Tools
+Learning Tools
+Training Tools
+Education Tools
+Teaching Tools
+Tutoring Tools
+Mentoring Tools
+Coaching Tools
+Consulting Tools
+Advising Tools
+Support Tools
+Help Tools
+Assistance Tools
+Guidance Tools
+Direction Tools
+Instruction Tools
+Explanation Tools
+Demonstration Tools
+Example Tools
+Template Tools
+Boilerplate Tools
+Starter Tools
+Scaffold Tools
+Generator Tools
+Builder Tools
+Creator Tools
+Maker Tools
+Developer Tools
+Programmer Tools
+Coder Tools
+Engineering Tools
+Architect Tools
+Designer Tools
+Artist Tools
+Creative Tools
+Content Tools
+Media Tools
+Publishing Tools
+Distribution Tools
+Marketing Tools
+Promotion Tools
+Advertising Tools
+Branding Tools
+Sales Tools
+Customer Tools
+Service Tools
+Support Tools
+Success Tools
+Retention Tools
+Loyalty Tools
+Engagement Tools
+Satisfaction Tools
+Experience Tools
+Journey Tools
+Touchpoint Tools
+Interaction Tools
+Relationship Tools
+Community Tools
+Social Tools
+Networking Tools
+Connection Tools
+Collaboration Tools
+Partnership Tools
+Alliance Tools
+Ecosystem Tools
+Platform Tools
+Marketplace Tools
+Exchange Tools
+Trading Tools
+Commerce Tools
+Business Tools
+Enterprise Tools
+Corporate Tools
+Organization Tools
+Institution Tools
+Government Tools
+Public Tools
+Private Tools
+Non-Profit Tools
+Charity Tools
+Foundation Tools
+Association Tools
+Society Tools
+Community Tools
+Group Tools
+Team Tools
+Individual Tools
+Personal Tools
+Professional Tools
+Career Tools
+Job Tools
+Work Tools
+Task Tools
+Project Tools
+Goal Tools
+Objective Tools
+Target Tools
+Milestone Tools
+Deadline Tools
+Schedule Tools
+Calendar Tools
+Time Tools
+Productivity Tools
+Efficiency Tools
+Effectiveness Tools
+Performance Tools
+Results Tools
+Outcome Tools
+Impact Tools
+Value Tools
+Benefit Tools
+Advantage Tools
+Opportunity Tools
+Potential Tools
+Capability Tools
+Capacity Tools
+Resource Tools
+Asset Tools
+Investment Tools
+Return Tools
+Profit Tools
+Revenue Tools
+Income Tools
+Earnings Tools
+Growth Tools
+Expansion Tools
+Scale Tools
+Development Tools
+Evolution Tools
+Transformation Tools
+Change Tools
+Innovation Tools
+Disruption Tools
+Revolution Tools
+Breakthrough Tools
+Advancement Tools
+Progress Tools
+Improvement Tools
+Enhancement Tools
+Optimization Tools
+Refinement Tools
+Perfection Tools
+Excellence Tools
+Quality Tools
+Standard Tools
+Benchmark Tools
+Best Practice Tools
+Leading Practice Tools
+Innovative Practice Tools
+Emerging Practice Tools
+Future Practice Tools
+Next Generation Tools
+Cutting Edge Tools
+State of the Art Tools
+Advanced Tools
+Sophisticated Tools
+Intelligent Tools
+Smart Tools
+Clever Tools
+Wise Tools
+Insightful Tools
+Intuitive Tools
+User-Friendly Tools
+Easy-to-Use Tools
+Simple Tools
+Straightforward Tools
+Clear Tools
+Transparent Tools
+Open Tools
+Accessible Tools
+Inclusive Tools
+Universal Tools
+Global Tools
+International Tools
+Multinational Tools
+Cross-Border Tools
+Cross-Cultural Tools
+Multi-Language Tools
+Multi-Currency Tools
+Multi-Platform Tools
+Cross-Platform Tools
+Multi-Device Tools
+Responsive Tools
+Adaptive Tools
+Flexible Tools
+Scalable Tools
+Extensible Tools
+Modular Tools
+Configurable Tools
+Customizable Tools
+Personalizable Tools
+Tailorable Tools
+Adjustable Tools
+Tunable Tools
+Optimizable Tools
+Upgradeable Tools
+Evolvable Tools
+Future-Proof Tools
+Sustainable Tools
+Reliable Tools
+Stable Tools
+Robust Tools
+Secure Tools
+Safe Tools
+Trusted Tools
+Verified Tools
+Certified Tools
+Compliant Tools
+Standard Tools
+Regulated Tools
+Approved Tools
+Authorized Tools
+Licensed Tools
+Legal Tools
+Legitimate Tools
+Authentic Tools
+Genuine Tools
+Original Tools
+Unique Tools
+Exclusive Tools
+Proprietary Tools
+Patented Tools
+Trademarked Tools
+Copyrighted Tools
+Protected Tools
+Intellectual Property Tools
+Brand Tools
+Identity Tools
+Reputation Tools
+Credibility Tools
+Trustworthiness Tools
+Reliability Tools
+Dependability Tools
+Consistency Tools
+Predictability Tools
+Stability Tools
+Continuity Tools
+Persistence Tools
+Durability Tools
+Longevity Tools
+Sustainability Tools
+Viability Tools
+Feasibility Tools
+Practicality Tools
+Usability Tools
+Applicability Tools
+Relevance Tools
+Significance Tools
+Importance Tools
+Value Tools
+Worth Tools
+Merit Tools
+Quality Tools
+Excellence Tools
+Superiority Tools
+Advantage Tools
+Benefit Tools
+Gain Tools
+Profit Tools
+Return Tools
+Reward Tools
+Incentive Tools
+Motivation Tools
+Inspiration Tools
+Encouragement Tools
+Support Tools
+Assistance Tools
+Help Tools
+Aid Tools
+Guidance Tools
+Direction Tools
+Leadership Tools
+Management Tools
+Governance Tools
+Control Tools
+Oversight Tools
+Supervision Tools
+Monitoring Tools
+Tracking Tools
+Measurement Tools
+Evaluation Tools
+Assessment Tools
+Analysis Tools
+Review Tools
+Audit Tools
+Inspection Tools
+Examination Tools
+Investigation Tools
+Research Tools
+Study Tools
+Survey Tools
+Poll Tools
+Questionnaire Tools
+Interview Tools
+Focus Group Tools
+Observation Tools
+Experiment Tools
+Test Tools
+Trial Tools
+Pilot Tools
+Prototype Tools
+Demo Tools
+Proof of Concept Tools
+MVP Tools
+Beta Tools
+Alpha Tools
+Preview Tools
+Early Access Tools
+Limited Release Tools
+Soft Launch Tools
+Gradual Rollout Tools
+Phased Deployment Tools
+Staged Release Tools
+Canary Release Tools
+Blue-Green Deployment Tools
+Rolling Deployment Tools
+Zero-Downtime Deployment Tools
+Hot Deployment Tools
+Live Deployment Tools
+Real-Time Deployment Tools
+Instant Deployment Tools
+Immediate Deployment Tools
+Fast Deployment Tools
+Quick Deployment Tools
+Rapid Deployment Tools
+Swift Deployment Tools
+Speedy Deployment Tools
+Efficient Deployment Tools
+Streamlined Deployment Tools
+Optimized Deployment Tools
+Automated Deployment Tools
+Orchestrated Deployment Tools
+Managed Deployment Tools
+Controlled Deployment Tools
+Secure Deployment Tools
+Safe Deployment Tools
+Reliable Deployment Tools
+Stable Deployment Tools
+Robust Deployment Tools
+Resilient Deployment Tools
+Fault-Tolerant Deployment Tools
+High-Availability Deployment Tools
+Scalable Deployment Tools
+Elastic Deployment Tools
+Flexible Deployment Tools
+Adaptable Deployment Tools
+Configurable Deployment Tools
+Customizable Deployment Tools
+Personalizable Deployment Tools
+Tailorable Deployment Tools
+Adjustable Deployment Tools
+Tunable Deployment Tools
+Optimizable Deployment Tools
+Upgradeable Deployment Tools
+Evolvable Deployment Tools
+Future-Proof Deployment Tools
+Sustainable Deployment Tools
+Environmentally Friendly Tools
+Green Tools
+Eco-Friendly Tools
+Carbon Neutral Tools
+Renewable Tools
+Clean Tools
+Sustainable Tools
+Responsible Tools
+Ethical Tools
+Moral Tools
+Principled Tools
+Value-Based Tools
+Purpose-Driven Tools
+Mission-Oriented Tools
+Vision-Aligned Tools
+Goal-Oriented Tools
+Objective-Focused Tools
+Result-Oriented Tools
+Outcome-Driven Tools
+Impact-Focused Tools
+Value-Creating Tools
+Benefit-Generating Tools
+Profit-Making Tools
+Revenue-Generating Tools
+Income-Producing Tools
+Earnings-Enhancing Tools
+Growth-Driving Tools
+Expansion-Enabling Tools
+Scale-Supporting Tools
+Development-Facilitating Tools
+Evolution-Accelerating Tools
+Transformation-Enabling Tools
+Change-Facilitating Tools
+Innovation-Driving Tools
+Disruption-Enabling Tools
+Revolution-Supporting Tools
+Breakthrough-Facilitating Tools
+Advancement-Accelerating Tools
+Progress-Enabling Tools
+Improvement-Driving Tools
+Enhancement-Supporting Tools
+Optimization-Facilitating Tools
+Refinement-Enabling Tools
+Perfection-Pursuing Tools
+Excellence-Achieving Tools
+Quality-Ensuring Tools
+Standard-Setting Tools
+Benchmark-Establishing Tools
+Best Practice-Implementing Tools
+Leading Practice-Adopting Tools
+Innovative Practice-Pioneering Tools
+Emerging Practice-Exploring Tools
+Future Practice-Anticipating Tools
+Next Generation-Preparing Tools
+Cutting Edge-Embracing Tools
+State of the Art-Utilizing Tools
+Advanced-Leveraging Tools
+Sophisticated-Employing Tools
+Intelligent-Harnessing Tools
+Smart-Utilizing Tools
+Clever-Applying Tools
+Wise-Implementing Tools
+Insightful-Leveraging Tools
+Intuitive-Embracing Tools
+User-Friendly-Prioritizing Tools
+Easy-to-Use-Ensuring Tools
+Simple-Maintaining Tools
+Straightforward-Keeping Tools
+Clear-Preserving Tools
+Transparent-Upholding Tools
+Open-Supporting Tools
+Accessible-Guaranteeing Tools
+Inclusive-Promoting Tools
+Universal-Enabling Tools
+Global-Facilitating Tools
+International-Supporting Tools
+Multinational-Accommodating Tools
+Cross-Border-Enabling Tools
+Cross-Cultural-Facilitating Tools
+Multi-Language-Supporting Tools
+Multi-Currency-Handling Tools
+Multi-Platform-Spanning Tools
+Cross-Platform-Bridging Tools
+Multi-Device-Covering Tools
+Responsive-Ensuring Tools
+Adaptive-Maintaining Tools
+Flexible-Preserving Tools
+Scalable-Guaranteeing Tools
+Extensible-Supporting Tools
+Modular-Enabling Tools
+Configurable-Allowing Tools
+Customizable-Permitting Tools
+Personalizable-Facilitating Tools
+Tailorable-Supporting Tools
+Adjustable-Enabling Tools
+Tunable-Allowing Tools
+Optimizable-Permitting Tools
+Upgradeable-Supporting Tools
+Evolvable-Enabling Tools
+Future-Proof-Ensuring Tools
+Sustainable-Maintaining Tools
+Reliable-Guaranteeing Tools
+Stable-Preserving Tools
+Robust-Upholding Tools
+Secure-Protecting Tools
+Safe-Safeguarding Tools
+Trusted-Building Tools
+Verified-Confirming Tools
+Certified-Validating Tools
+Compliant-Ensuring Tools
+Standard-Meeting Tools
+Regulated-Following Tools
+Approved-Obtaining Tools
+Authorized-Securing Tools
+Licensed-Acquiring Tools
+Legal-Maintaining Tools
+Legitimate-Ensuring Tools
+Authentic-Preserving Tools
+Genuine-Guaranteeing Tools
+Original-Creating Tools
+Unique-Developing Tools
+Exclusive-Offering Tools
+Proprietary-Protecting Tools
+Patented-Securing Tools
+Trademarked-Registering Tools
+Copyrighted-Protecting Tools
+Protected-Safeguarding Tools
+Intellectual Property-Respecting Tools
+Brand-Building Tools
+Identity-Establishing Tools
+Reputation-Enhancing Tools
+Credibility-Building Tools
+Trustworthiness-Demonstrating Tools
+Reliability-Proving Tools
+Dependability-Showing Tools
+Consistency-Maintaining Tools
+Predictability-Ensuring Tools
+Stability-Providing Tools
+Continuity-Guaranteeing Tools
+Persistence-Demonstrating Tools
+Durability-Ensuring Tools
+Longevity-Supporting Tools
+Sustainability-Promoting Tools
+Viability-Confirming Tools
+Feasibility-Proving Tools
+Practicality-Demonstrating Tools
+Usability-Ensuring Tools
+Applicability-Confirming Tools
+Relevance-Maintaining Tools
+Significance-Highlighting Tools
+Importance-Emphasizing Tools
+Value-Delivering Tools
+Worth-Demonstrating Tools
+Merit-Proving Tools
+Quality-Ensuring Tools
+Excellence-Achieving Tools
+Superiority-Demonstrating Tools
+Advantage-Providing Tools
+Benefit-Delivering Tools
+Gain-Generating Tools
+Profit-Creating Tools
+Return-Maximizing Tools
+Reward-Offering Tools
+Incentive-Providing Tools
+Motivation-Inspiring Tools
+Inspiration-Delivering Tools
+Encouragement-Offering Tools
+Support-Providing Tools
+Assistance-Delivering Tools
+Help-Offering Tools
+Aid-Providing Tools
+Guidance-Delivering Tools
+Direction-Offering Tools
+Leadership-Providing Tools
+Management-Delivering Tools
+Governance-Offering Tools
+Control-Providing Tools
+Oversight-Delivering Tools
+Supervision-Offering Tools
+Monitoring-Providing Tools
+Tracking-Delivering Tools
+Measurement-Offering Tools
+Evaluation-Providing Tools
+Assessment-Delivering Tools
+Analysis-Offering Tools
+Review-Providing Tools
+Audit-Delivering Tools
+Inspection-Offering Tools
+Examination-Providing Tools
+Investigation-Delivering Tools
+Research-Offering Tools
+Study-Providing Tools
+Survey-Delivering Tools
+Poll-Offering Tools
+Questionnaire-Providing Tools
+Interview-Delivering Tools
+Focus Group-Offering Tools
+Observation-Providing Tools
+Experiment-Delivering Tools
+Test-Offering Tools
+Trial-Providing Tools
+Pilot-Delivering Tools
+Prototype-Offering Tools
+Demo-Providing Tools
+Proof of Concept-Delivering Tools
+MVP-Offering Tools
+Beta-Providing Tools
+Alpha-Delivering Tools
+Preview-Offering Tools
+Early Access-Providing Tools
+Limited Release-Delivering Tools
+Soft Launch-Offering Tools
+Gradual Rollout-Providing Tools
+Phased Deployment-Delivering Tools
+Staged Release-Offering Tools
+Canary Release-Providing Tools
+Blue-Green Deployment-Delivering Tools
+Rolling Deployment-Offering Tools
+Zero-Downtime Deployment-Providing Tools
+Hot Deployment-Delivering Tools
+Live Deployment-Offering Tools
+Real-Time Deployment-Providing Tools
+Instant Deployment-Delivering Tools
+Immediate Deployment-Offering Tools
+Fast Deployment-Providing Tools
+Quick Deployment-Delivering Tools
+Rapid Deployment-Offering Tools
+Swift Deployment-Providing Tools
+Speedy Deployment-Delivering Tools
+Efficient Deployment-Offering Tools
+Streamlined Deployment-Providing Tools
+Optimized Deployment-Delivering Tools
+Automated Deployment-Offering Tools
+Orchestrated Deployment-Providing Tools
+Managed Deployment-Delivering Tools
+Controlled Deployment-Offering Tools
+Secure Deployment-Providing Tools
+Safe Deployment-Delivering Tools
+Reliable Deployment-Offering Tools
+Stable Deployment-Providing Tools
+Robust Deployment-Delivering Tools
+Resilient Deployment-Offering Tools
+Fault-Tolerant Deployment-Providing Tools
+High-Availability Deployment-Delivering Tools
+Scalable Deployment-Offering Tools
+Elastic Deployment-Providing Tools
+Flexible Deployment-Delivering Tools
+Adaptable Deployment-Offering Tools
+Configurable Deployment-Providing Tools
+Customizable Deployment-Delivering Tools
+Personalizable Deployment-Offering Tools
+Tailorable Deployment-Providing Tools
+Adjustable Deployment-Delivering Tools
+Tunable Deployment-Offering Tools
+Optimizable Deployment-Providing Tools
+Upgradeable Deployment-Delivering Tools
+Evolvable Deployment-Offering Tools
+Future-Proof Deployment-Providing Tools
+Sustainable Deployment-Delivering Tools
+
+/* CONTACT */
+
+For questions about this file:
+Email: developers@salla.sa
+Website: https://salla.sa
+GitHub: https://github.com/omom04922-spec/theme-raed
+Telegram: @salladev
+Twitter: @SallaHQ
+LinkedIn: /company/salla
+Facebook: /SallaHQ
+Instagram: @sallahq
+YouTube: /c/SallaHQ
+
+/* HUMANS.TXT */
+
+The humans responsible for this project.
+More info: http://humanstxt.org/
+
+                              .-.
+                             (o.o)
+                              |=|
+                             __|__
+                           //.=|=.\\
+                          // .=|=. \\
+                          \\ .=|=. //
+                           \\(_=_)//
+                            (:| |:)
+                             || ||
+                             () ()
+                             || ||
+                             || ||
+                            ==' '==
+
+/* SALLA THEME RAED - HUMANS.TXT */
