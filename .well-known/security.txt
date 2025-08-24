@@ -1,0 +1,207 @@
+# Security Policy for Salla Theme Raed
+# https://securitytxt.org/
+# https://tools.ietf.org/html/draft-foudil-securitytxt-12
+
+# Contact information for security issues
+Contact: mailto:security@salla.sa
+Contact: https://salla.sa/security
+Contact: https://github.com/omom04922-spec/theme-raed/security/advisories/new
+
+# Preferred languages for security reports
+Preferred-Languages: en, ar
+
+# Canonical URL for this security.txt file
+Canonical: https://yourstore.salla.sa/.well-known/security.txt
+
+# Policy URL with detailed security information
+Policy: https://salla.sa/security-policy
+Policy: https://github.com/omom04922-spec/theme-raed/blob/main/SECURITY.md
+
+# Acknowledgments page for security researchers
+Acknowledgments: https://salla.sa/security-acknowledgments
+Acknowledgments: https://github.com/omom04922-spec/theme-raed/blob/main/SECURITY.md#acknowledgments
+
+# Hiring information for security professionals
+Hiring: https://salla.sa/careers
+Hiring: https://jobs.salla.sa/
+
+# Encryption key for secure communication
+# Encryption: https://salla.sa/pgp-key.asc
+# Encryption: https://keybase.io/salla/pgp_keys.asc
+
+# Expiration date for this security.txt file (1 year from creation)
+Expires: 2025-12-31T23:59:59.000Z
+
+# Additional information
+# This file follows RFC 9116 specification
+# Last updated: 2024-01-01
+# Version: 1.0
+
+# Scope of this security policy
+# This security.txt file applies to:
+# - Salla Theme Raed (https://github.com/omom04922-spec/theme-raed)
+# - All related theme files and components
+# - Theme configuration and settings
+# - Theme assets and resources
+# - Theme documentation and examples
+
+# What to report:
+# - Cross-Site Scripting (XSS) vulnerabilities
+# - Cross-Site Request Forgery (CSRF) vulnerabilities
+# - SQL Injection vulnerabilities
+# - Authentication and authorization bypasses
+# - Sensitive data exposure
+# - Server-side request forgery (SSRF)
+# - Remote code execution (RCE)
+# - Local file inclusion (LFI)
+# - Directory traversal vulnerabilities
+# - Insecure direct object references
+# - Security misconfigurations
+# - Insecure cryptographic implementations
+# - Business logic vulnerabilities
+# - Privacy violations
+# - GDPR compliance issues
+# - Accessibility security issues
+# - Mobile security vulnerabilities
+# - API security vulnerabilities
+# - Third-party integration security issues
+
+# What NOT to report:
+# - Issues in third-party dependencies (report to the respective maintainers)
+# - Social engineering attacks
+# - Physical security issues
+# - Denial of Service (DoS) attacks
+# - Spam or phishing attempts
+# - Issues requiring physical access to devices
+# - Issues in outdated versions (please test on the latest version)
+# - Issues that require user interaction with malicious content
+# - Self-XSS that cannot be used to attack other users
+# - Missing security headers without demonstrable impact
+# - Clickjacking without demonstrable impact
+# - CSRF on forms that are not state-changing
+# - Missing rate limiting without demonstrable impact
+# - Theoretical vulnerabilities without proof of concept
+
+# Reporting guidelines:
+# 1. Provide a clear description of the vulnerability
+# 2. Include steps to reproduce the issue
+# 3. Provide proof of concept code or screenshots
+# 4. Specify the affected versions
+# 5. Include the potential impact of the vulnerability
+# 6. Suggest possible fixes if you have any
+# 7. Do not access or modify data that doesn't belong to you
+# 8. Do not perform actions that could harm the service or users
+# 9. Do not publicly disclose the vulnerability until we've had a chance to fix it
+# 10. Be patient - we'll respond as quickly as possible
+
+# Response timeline:
+# - Initial response: Within 24-48 hours
+# - Vulnerability assessment: Within 1 week
+# - Fix development: Depends on severity and complexity
+# - Fix deployment: As soon as possible after development
+# - Public disclosure: After fix is deployed and users have had time to update
+
+# Severity classification:
+# Critical: Immediate threat to user data or system integrity
+# High: Significant security risk with potential for data breach
+# Medium: Moderate security risk with limited impact
+# Low: Minor security issue with minimal impact
+# Informational: Security-related observation without immediate risk
+
+# Reward program:
+# We appreciate security researchers who help us improve our security.
+# While we don't currently offer monetary rewards, we do provide:
+# - Public acknowledgment (if desired)
+# - Direct communication with our security team
+# - Updates on fix progress
+# - Invitation to test fixes before public release
+
+# Legal safe harbor:
+# We will not pursue legal action against security researchers who:
+# - Follow responsible disclosure practices
+# - Do not access or modify user data
+# - Do not perform actions that could harm our services
+# - Report vulnerabilities in good faith
+# - Comply with applicable laws and regulations
+
+# Contact methods priority:
+# 1. Email: security@salla.sa (preferred for detailed reports)
+# 2. GitHub Security Advisories (for public coordination)
+# 3. Security page: https://salla.sa/security (for general information)
+
+# Additional resources:
+# - Salla Security Documentation: https://docs.salla.sa/security
+# - Salla Developer Guidelines: https://docs.salla.sa/developers
+# - Theme Development Best Practices: https://docs.salla.sa/themes
+# - Security Checklist: https://docs.salla.sa/security-checklist
+# - OWASP Top 10: https://owasp.org/www-project-top-ten/
+# - Web Security Guidelines: https://web.dev/security/
+
+# Languages supported for security reports:
+# English (en) - Primary language
+# Arabic (ar) - Secondary language
+
+# Time zones:
+# Our security team operates primarily in:
+# - Arabia Standard Time (AST) - UTC+3
+# - Gulf Standard Time (GST) - UTC+4
+
+# Emergency contact:
+# For critical security issues that pose immediate threat:
+# Email: security-emergency@salla.sa
+# Subject: [CRITICAL SECURITY] Brief description
+
+# Bug bounty program:
+# We are considering implementing a bug bounty program.
+# Check our security page for updates: https://salla.sa/security
+
+# Compliance and certifications:
+# - ISO 27001 (Information Security Management)
+# - SOC 2 Type II (Security, Availability, Confidentiality)
+# - PCI DSS (Payment Card Industry Data Security Standard)
+# - GDPR (General Data Protection Regulation)
+# - CCPA (California Consumer Privacy Act)
+# - NIST Cybersecurity Framework
+
+# Security tools and practices:
+# - Static Application Security Testing (SAST)
+# - Dynamic Application Security Testing (DAST)
+# - Interactive Application Security Testing (IAST)
+# - Software Composition Analysis (SCA)
+# - Container Security Scanning
+# - Infrastructure as Code Security
+# - Security Code Review
+# - Penetration Testing
+# - Vulnerability Management
+# - Security Monitoring and Logging
+# - Incident Response Planning
+# - Security Awareness Training
+
+# Third-party security services:
+# We work with reputable security firms for:
+# - External penetration testing
+# - Security audits and assessments
+# - Vulnerability scanning
+# - Security consulting
+# - Incident response support
+
+# Security community involvement:
+# - OWASP (Open Web Application Security Project)
+# - SANS (SysAdmin, Audit, Network, and Security)
+# - ISC2 (International Information System Security Certification Consortium)
+# - ISACA (Information Systems Audit and Control Association)
+# - Local security meetups and conferences
+
+# Continuous improvement:
+# We regularly review and update our security practices based on:
+# - Industry best practices and standards
+# - Threat landscape changes
+# - Security research findings
+# - Regulatory requirements
+# - Customer feedback
+# - Security incident lessons learned
+
+# Thank you for helping us keep Salla Theme Raed secure!
+# Your efforts contribute to a safer e-commerce ecosystem for everyone.
+
+# End of security.txt
