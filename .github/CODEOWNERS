@@ -1,0 +1,260 @@
+# Code Owners for Salla Theme Raed
+# This file defines who is responsible for code in this repository.
+# More info: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Global owners - these users will be requested for review when someone opens a pull request
+* @omom04922-spec
+
+# Documentation
+*.md @omom04922-spec
+*.txt @omom04922-spec
+DOCS/ @omom04922-spec
+docs/ @omom04922-spec
+
+# Configuration files
+*.json @omom04922-spec
+*.js @omom04922-spec
+*.ts @omom04922-spec
+*.yml @omom04922-spec
+*.yaml @omom04922-spec
+*.toml @omom04922-spec
+*.ini @omom04922-spec
+*.conf @omom04922-spec
+*.config @omom04922-spec
+
+# Frontend assets
+src/ @omom04922-spec
+public/ @omom04922-spec
+assets/ @omom04922-spec
+static/ @omom04922-spec
+*.css @omom04922-spec
+*.scss @omom04922-spec
+*.sass @omom04922-spec
+*.less @omom04922-spec
+*.html @omom04922-spec
+*.twig @omom04922-spec
+*.vue @omom04922-spec
+*.jsx @omom04922-spec
+*.tsx @omom04922-spec
+
+# Build and deployment
+webpack.config.js @omom04922-spec
+tailwind.config.js @omom04922-spec
+postcss.config.js @omom04922-spec
+babel.config.js @omom04922-spec
+.babelrc @omom04922-spec
+package.json @omom04922-spec
+package-lock.json @omom04922-spec
+yarn.lock @omom04922-spec
+
+# Testing
+tests/ @omom04922-spec
+test/ @omom04922-spec
+__tests__/ @omom04922-spec
+*.test.js @omom04922-spec
+*.test.ts @omom04922-spec
+*.spec.js @omom04922-spec
+*.spec.ts @omom04922-spec
+jest.config.js @omom04922-spec
+cypress.config.js @omom04922-spec
+
+# Linting and formatting
+.eslintrc* @omom04922-spec
+.prettierrc* @omom04922-spec
+.stylelintrc* @omom04922-spec
+.editorconfig @omom04922-spec
+
+# Git and GitHub
+.gitignore @omom04922-spec
+.gitattributes @omom04922-spec
+.github/ @omom04922-spec
+
+# Environment and secrets
+.env* @omom04922-spec
+.env.example @omom04922-spec
+
+# Security
+.well-known/ @omom04922-spec
+security.txt @omom04922-spec
+
+# Salla specific
+theme-settings.json @omom04922-spec
+twilight.json @omom04922-spec
+
+# Localization
+locales/ @omom04922-spec
+lang/ @omom04922-spec
+i18n/ @omom04922-spec
+*.po @omom04922-spec
+*.pot @omom04922-spec
+*.mo @omom04922-spec
+
+# Database
+*.sql @omom04922-spec
+migrations/ @omom04922-spec
+seeds/ @omom04922-spec
+
+# Docker
+Dockerfile* @omom04922-spec
+docker-compose* @omom04922-spec
+.dockerignore @omom04922-spec
+
+# CI/CD
+.github/workflows/ @omom04922-spec
+.gitlab-ci.yml @omom04922-spec
+.travis.yml @omom04922-spec
+.circleci/ @omom04922-spec
+Jenkinsfile @omom04922-spec
+
+# License and legal
+LICENSE* @omom04922-spec
+COPYING* @omom04922-spec
+NOTICE* @omom04922-spec
+AUTHORS* @omom04922-spec
+CONTRIBUTORS* @omom04922-spec
+CHANGELOG* @omom04922-spec
+CODE_OF_CONDUCT* @omom04922-spec
+CONTRIBUTING* @omom04922-spec
+
+# SEO and metadata
+robots.txt @omom04922-spec
+sitemap.xml @omom04922-spec
+humans.txt @omom04922-spec
+manifest.json @omom04922-spec
+browserconfig.xml @omom04922-spec
+
+# Performance and monitoring
+lighthouse/ @omom04922-spec
+performance/ @omom04922-spec
+monitoring/ @omom04922-spec
+
+# Backup and archive
+backup/ @omom04922-spec
+archive/ @omom04922-spec
+*.backup @omom04922-spec
+*.bak @omom04922-spec
+
+# Temporary and cache
+temp/ @omom04922-spec
+tmp/ @omom04922-spec
+cache/ @omom04922-spec
+.cache/ @omom04922-spec
+
+# IDE and editor
+.vscode/ @omom04922-spec
+.idea/ @omom04922-spec
+*.swp @omom04922-spec
+*.swo @omom04922-spec
+*~ @omom04922-spec
+
+# OS generated
+.DS_Store @omom04922-spec
+Thumbs.db @omom04922-spec
+ehthumbs.db @omom04922-spec
+Desktop.ini @omom04922-spec
+
+# Logs
+logs/ @omom04922-spec
+*.log @omom04922-spec
+npm-debug.log* @omom04922-spec
+yarn-debug.log* @omom04922-spec
+yarn-error.log* @omom04922-spec
+
+# Runtime data
+pids/ @omom04922-spec
+*.pid @omom04922-spec
+*.seed @omom04922-spec
+*.pid.lock @omom04922-spec
+
+# Coverage directory used by tools like istanbul
+coverage/ @omom04922-spec
+.nyc_output/ @omom04922-spec
+
+# Dependency directories
+node_modules/ @omom04922-spec
+vendor/ @omom04922-spec
+bower_components/ @omom04922-spec
+
+# Build outputs
+dist/ @omom04922-spec
+build/ @omom04922-spec
+out/ @omom04922-spec
+target/ @omom04922-spec
+
+# Optional npm cache directory
+.npm @omom04922-spec
+
+# Optional eslint cache
+.eslintcache @omom04922-spec
+
+# Optional stylelint cache
+.stylelintcache @omom04922-spec
+
+# Microbundle cache
+.rpt2_cache/ @omom04922-spec
+.rts2_cache_cjs/ @omom04922-spec
+.rts2_cache_es/ @omom04922-spec
+.rts2_cache_umd/ @omom04922-spec
+
+# Optional REPL history
+.node_repl_history @omom04922-spec
+
+# Output of 'npm pack'
+*.tgz @omom04922-spec
+
+# Yarn Integrity file
+.yarn-integrity @omom04922-spec
+
+# dotenv environment variables file
+.env @omom04922-spec
+.env.test @omom04922-spec
+.env.production @omom04922-spec
+.env.local @omom04922-spec
+.env.development.local @omom04922-spec
+.env.test.local @omom04922-spec
+.env.production.local @omom04922-spec
+
+# parcel-bundler cache (https://parceljs.org/)
+.parcel-cache @omom04922-spec
+
+# Next.js build output
+.next @omom04922-spec
+out @omom04922-spec
+
+# Nuxt.js build / generate output
+.nuxt @omom04922-spec
+dist @omom04922-spec
+
+# Gatsby files
+.cache/ @omom04922-spec
+public @omom04922-spec
+
+# Storybook build outputs
+.out @omom04922-spec
+.storybook-out @omom04922-spec
+
+# Temporary folders
+tmp/ @omom04922-spec
+temp/ @omom04922-spec
+
+# Serverless directories
+.serverless/ @omom04922-spec
+
+# FuseBox cache
+.fusebox/ @omom04922-spec
+
+# DynamoDB Local files
+.dynamodb/ @omom04922-spec
+
+# TernJS port file
+.tern-port @omom04922-spec
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test @omom04922-spec
+
+# yarn v2
+.yarn/cache @omom04922-spec
+.yarn/unplugged @omom04922-spec
+.yarn/build-state.yml @omom04922-spec
+.yarn/install-state.gz @omom04922-spec
+.pnp.* @omom04922-spec
