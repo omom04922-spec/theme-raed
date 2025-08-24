@@ -1,0 +1,432 @@
+{
+  "name": "Salla Theme Raed",
+  "version": "2.0.0",
+  "description": "Advanced e-commerce theme for Salla platform with modern design, PWA support, and enhanced performance",
+  "author": "Salla Team",
+  "license": "MIT",
+  "homepage": "https://github.com/omom04922-spec/theme-raed",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omom04922-spec/theme-raed.git"
+  },
+  "settings": {
+    "general": {
+      "title": "General Settings",
+      "fields": {
+        "logo": {
+          "type": "image",
+          "label": "Store Logo",
+          "description": "Upload your store logo (recommended size: 200x60px)",
+          "default": ""
+        },
+        "favicon": {
+          "type": "image",
+          "label": "Favicon",
+          "description": "Upload favicon (32x32px)",
+          "default": ""
+        },
+        "primary_color": {
+          "type": "color",
+          "label": "Primary Color",
+          "description": "Main brand color",
+          "default": "#2563eb"
+        },
+        "secondary_color": {
+          "type": "color",
+          "label": "Secondary Color",
+          "description": "Secondary brand color",
+          "default": "#16a34a"
+        },
+        "accent_color": {
+          "type": "color",
+          "label": "Accent Color",
+          "description": "Accent color for highlights",
+          "default": "#dc2626"
+        },
+        "font_family": {
+          "type": "select",
+          "label": "Font Family",
+          "description": "Choose the main font family",
+          "options": {
+            "cairo": "Cairo (Arabic/English)",
+            "inter": "Inter (English)",
+            "amiri": "Amiri (Arabic)",
+            "system": "System Default"
+          },
+          "default": "cairo"
+        },
+        "rtl_support": {
+          "type": "boolean",
+          "label": "RTL Support",
+          "description": "Enable right-to-left layout support",
+          "default": true
+        },
+        "dark_mode": {
+          "type": "boolean",
+          "label": "Dark Mode",
+          "description": "Enable dark mode toggle",
+          "default": true
+        }
+      }
+    },
+    "layout": {
+      "title": "Layout Settings",
+      "fields": {
+        "container_width": {
+          "type": "select",
+          "label": "Container Width",
+          "description": "Maximum width of the main container",
+          "options": {
+            "1200": "1200px",
+            "1400": "1400px",
+            "1600": "1600px",
+            "full": "Full Width"
+          },
+          "default": "1200"
+        },
+        "header_style": {
+          "type": "select",
+          "label": "Header Style",
+          "description": "Choose header layout style",
+          "options": {
+            "classic": "Classic",
+            "modern": "Modern",
+            "minimal": "Minimal",
+            "centered": "Centered"
+          },
+          "default": "modern"
+        },
+        "footer_style": {
+          "type": "select",
+          "label": "Footer Style",
+          "description": "Choose footer layout style",
+          "options": {
+            "classic": "Classic",
+            "modern": "Modern",
+            "minimal": "Minimal"
+          },
+          "default": "modern"
+        },
+        "sidebar_position": {
+          "type": "select",
+          "label": "Sidebar Position",
+          "description": "Position of the sidebar in category pages",
+          "options": {
+            "left": "Left",
+            "right": "Right",
+            "none": "No Sidebar"
+          },
+          "default": "right"
+        }
+      }
+    },
+    "homepage": {
+      "title": "Homepage Settings",
+      "fields": {
+        "hero_section": {
+          "type": "boolean",
+          "label": "Show Hero Section",
+          "description": "Display hero banner on homepage",
+          "default": true
+        },
+        "hero_image": {
+          "type": "image",
+          "label": "Hero Background Image",
+          "description": "Upload hero section background image",
+          "default": ""
+        },
+        "hero_title": {
+          "type": "text",
+          "label": "Hero Title",
+          "description": "Main title for hero section",
+          "default": "Welcome to Our Store"
+        },
+        "hero_subtitle": {
+          "type": "textarea",
+          "label": "Hero Subtitle",
+          "description": "Subtitle text for hero section",
+          "default": "Discover amazing products at great prices"
+        },
+        "featured_products": {
+          "type": "boolean",
+          "label": "Show Featured Products",
+          "description": "Display featured products section",
+          "default": true
+        },
+        "featured_products_count": {
+          "type": "number",
+          "label": "Featured Products Count",
+          "description": "Number of featured products to display",
+          "default": 8,
+          "min": 4,
+          "max": 20
+        },
+        "categories_section": {
+          "type": "boolean",
+          "label": "Show Categories Section",
+          "description": "Display categories grid on homepage",
+          "default": true
+        },
+        "testimonials_section": {
+          "type": "boolean",
+          "label": "Show Testimonials",
+          "description": "Display customer testimonials",
+          "default": true
+        },
+        "newsletter_section": {
+          "type": "boolean",
+          "label": "Show Newsletter Signup",
+          "description": "Display newsletter subscription form",
+          "default": true
+        }
+      }
+    },
+    "products": {
+      "title": "Product Settings",
+      "fields": {
+        "products_per_page": {
+          "type": "number",
+          "label": "Products Per Page",
+          "description": "Number of products to display per page",
+          "default": 12,
+          "min": 6,
+          "max": 48
+        },
+        "product_card_style": {
+          "type": "select",
+          "label": "Product Card Style",
+          "description": "Choose product card design",
+          "options": {
+            "classic": "Classic",
+            "modern": "Modern",
+            "minimal": "Minimal",
+            "overlay": "Overlay"
+          },
+          "default": "modern"
+        },
+        "show_quick_view": {
+          "type": "boolean",
+          "label": "Show Quick View",
+          "description": "Enable quick view modal for products",
+          "default": true
+        },
+        "show_wishlist": {
+          "type": "boolean",
+          "label": "Show Wishlist",
+          "description": "Enable wishlist functionality",
+          "default": true
+        },
+        "show_compare": {
+          "type": "boolean",
+          "label": "Show Compare",
+          "description": "Enable product comparison",
+          "default": true
+        },
+        "show_reviews": {
+          "type": "boolean",
+          "label": "Show Reviews",
+          "description": "Display product reviews and ratings",
+          "default": true
+        },
+        "image_zoom": {
+          "type": "boolean",
+          "label": "Image Zoom",
+          "description": "Enable image zoom on product pages",
+          "default": true
+        },
+        "related_products_count": {
+          "type": "number",
+          "label": "Related Products Count",
+          "description": "Number of related products to show",
+          "default": 4,
+          "min": 2,
+          "max": 12
+        }
+      }
+    },
+    "performance": {
+      "title": "Performance Settings",
+      "fields": {
+        "lazy_loading": {
+          "type": "boolean",
+          "label": "Lazy Loading",
+          "description": "Enable lazy loading for images",
+          "default": true
+        },
+        "webp_images": {
+          "type": "boolean",
+          "label": "WebP Images",
+          "description": "Use WebP format for better compression",
+          "default": true
+        },
+        "minify_css": {
+          "type": "boolean",
+          "label": "Minify CSS",
+          "description": "Minify CSS files for faster loading",
+          "default": true
+        },
+        "minify_js": {
+          "type": "boolean",
+          "label": "Minify JavaScript",
+          "description": "Minify JavaScript files for faster loading",
+          "default": true
+        },
+        "enable_pwa": {
+          "type": "boolean",
+          "label": "Enable PWA",
+          "description": "Enable Progressive Web App features",
+          "default": true
+        },
+        "cache_duration": {
+          "type": "number",
+          "label": "Cache Duration (hours)",
+          "description": "Browser cache duration in hours",
+          "default": 24,
+          "min": 1,
+          "max": 168
+        }
+      }
+    },
+    "social": {
+      "title": "Social Media Settings",
+      "fields": {
+        "facebook_url": {
+          "type": "url",
+          "label": "Facebook URL",
+          "description": "Your Facebook page URL",
+          "default": ""
+        },
+        "twitter_url": {
+          "type": "url",
+          "label": "Twitter URL",
+          "description": "Your Twitter profile URL",
+          "default": ""
+        },
+        "instagram_url": {
+          "type": "url",
+          "label": "Instagram URL",
+          "description": "Your Instagram profile URL",
+          "default": ""
+        },
+        "linkedin_url": {
+          "type": "url",
+          "label": "LinkedIn URL",
+          "description": "Your LinkedIn profile URL",
+          "default": ""
+        },
+        "youtube_url": {
+          "type": "url",
+          "label": "YouTube URL",
+          "description": "Your YouTube channel URL",
+          "default": ""
+        },
+        "tiktok_url": {
+          "type": "url",
+          "label": "TikTok URL",
+          "description": "Your TikTok profile URL",
+          "default": ""
+        },
+        "snapchat_url": {
+          "type": "url",
+          "label": "Snapchat URL",
+          "description": "Your Snapchat profile URL",
+          "default": ""
+        },
+        "whatsapp_number": {
+          "type": "text",
+          "label": "WhatsApp Number",
+          "description": "WhatsApp number with country code (e.g., +966501234567)",
+          "default": ""
+        },
+        "show_social_sharing": {
+          "type": "boolean",
+          "label": "Show Social Sharing",
+          "description": "Enable social sharing buttons on product pages",
+          "default": true
+        }
+      }
+    },
+    "analytics": {
+      "title": "Analytics & Tracking",
+      "fields": {
+        "google_analytics_id": {
+          "type": "text",
+          "label": "Google Analytics ID",
+          "description": "Your Google Analytics tracking ID (GA4)",
+          "default": ""
+        },
+        "google_tag_manager_id": {
+          "type": "text",
+          "label": "Google Tag Manager ID",
+          "description": "Your Google Tag Manager container ID",
+          "default": ""
+        },
+        "facebook_pixel_id": {
+          "type": "text",
+          "label": "Facebook Pixel ID",
+          "description": "Your Facebook Pixel ID",
+          "default": ""
+        },
+        "snapchat_pixel_id": {
+          "type": "text",
+          "label": "Snapchat Pixel ID",
+          "description": "Your Snapchat Pixel ID",
+          "default": ""
+        },
+        "tiktok_pixel_id": {
+          "type": "text",
+          "label": "TikTok Pixel ID",
+          "description": "Your TikTok Pixel ID",
+          "default": ""
+        },
+        "custom_head_code": {
+          "type": "textarea",
+          "label": "Custom Head Code",
+          "description": "Custom HTML/JavaScript code to add to <head> section",
+          "default": ""
+        },
+        "custom_body_code": {
+          "type": "textarea",
+          "label": "Custom Body Code",
+          "description": "Custom HTML/JavaScript code to add before </body> tag",
+          "default": ""
+        }
+      }
+    },
+    "advanced": {
+      "title": "Advanced Settings",
+      "fields": {
+        "custom_css": {
+          "type": "textarea",
+          "label": "Custom CSS",
+          "description": "Add custom CSS styles",
+          "default": ""
+        },
+        "custom_js": {
+          "type": "textarea",
+          "label": "Custom JavaScript",
+          "description": "Add custom JavaScript code",
+          "default": ""
+        },
+        "maintenance_mode": {
+          "type": "boolean",
+          "label": "Maintenance Mode",
+          "description": "Enable maintenance mode",
+          "default": false
+        },
+        "maintenance_message": {
+          "type": "textarea",
+          "label": "Maintenance Message",
+          "description": "Message to display during maintenance",
+          "default": "We are currently performing maintenance. Please check back soon."
+        },
+        "debug_mode": {
+          "type": "boolean",
+          "label": "Debug Mode",
+          "description": "Enable debug mode for development",
+          "default": false
+        }
+      }
+    }
+  }
+}

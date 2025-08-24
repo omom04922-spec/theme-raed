@@ -1,0 +1,176 @@
+{
+  "name": "theme-raed",
+  "version": "2.0.0",
+  "description": "Advanced e-commerce theme for Salla platform with modern design, PWA support, and enhanced performance",
+  "author": "Salla Team",
+  "license": "MIT",
+  "homepage": "https://github.com/omom04922-spec/theme-raed",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omom04922-spec/theme-raed.git"
+  },
+  "keywords": [
+    "salla",
+    "theme",
+    "e-commerce",
+    "pwa",
+    "responsive",
+    "rtl",
+    "arabic",
+    "performance",
+    "accessibility",
+    "modern"
+  ],
+  "engines": {
+    "twilight": ">=2.0.0"
+  },
+  "assets": {
+    "css": [
+      "public/css/app.css"
+    ],
+    "js": [
+      "public/js/app.js"
+    ]
+  },
+  "views": {
+    "layouts": {
+      "master": "src/views/layouts/master.twig",
+      "inner": "src/views/layouts/inner.twig",
+      "checkout": "src/views/layouts/checkout.twig"
+    },
+    "pages": {
+      "home": "src/views/pages/home.twig",
+      "product": "src/views/pages/product.twig",
+      "category": "src/views/pages/category.twig",
+      "cart": "src/views/pages/cart.twig",
+      "checkout": "src/views/pages/checkout.twig",
+      "account": "src/views/pages/account.twig",
+      "login": "src/views/pages/auth/login.twig",
+      "register": "src/views/pages/auth/register.twig",
+      "search": "src/views/pages/search.twig",
+      "blog": "src/views/pages/blog.twig",
+      "article": "src/views/pages/article.twig",
+      "page": "src/views/pages/page.twig",
+      "contact": "src/views/pages/contact.twig",
+      "404": "src/views/pages/errors/404.twig",
+      "500": "src/views/pages/errors/500.twig"
+    },
+    "components": {
+      "header": "src/views/components/header.twig",
+      "footer": "src/views/components/footer.twig",
+      "navigation": "src/views/components/navigation.twig",
+      "breadcrumb": "src/views/components/breadcrumb.twig",
+      "product-card": "src/views/components/product-card.twig",
+      "product-gallery": "src/views/components/product-gallery.twig",
+      "cart-sidebar": "src/views/components/cart-sidebar.twig",
+      "search-modal": "src/views/components/search-modal.twig",
+      "newsletter": "src/views/components/newsletter.twig",
+      "testimonials": "src/views/components/testimonials.twig",
+      "social-links": "src/views/components/social-links.twig",
+      "loading": "src/views/components/loading.twig",
+      "pagination": "src/views/components/pagination.twig",
+      "filters": "src/views/components/filters.twig",
+      "wishlist-button": "src/views/components/wishlist-button.twig",
+      "compare-button": "src/views/components/compare-button.twig",
+      "rating": "src/views/components/rating.twig",
+      "reviews": "src/views/components/reviews.twig",
+      "quick-view": "src/views/components/quick-view.twig",
+      "mobile-menu": "src/views/components/mobile-menu.twig",
+      "language-switcher": "src/views/components/language-switcher.twig",
+      "currency-switcher": "src/views/components/currency-switcher.twig",
+      "theme-switcher": "src/views/components/theme-switcher.twig"
+    }
+  },
+  "locales": {
+    "ar": "src/locales/ar.json",
+    "en": "src/locales/en.json"
+  },
+  "settings": "theme-settings.json",
+  "preview": {
+    "desktop": "preview/desktop.png",
+    "mobile": "preview/mobile.png",
+    "tablet": "preview/tablet.png"
+  },
+  "features": [
+    "responsive",
+    "rtl",
+    "pwa",
+    "accessibility",
+    "performance",
+    "seo",
+    "dark-mode",
+    "lazy-loading",
+    "webp",
+    "service-worker",
+    "offline",
+    "push-notifications",
+    "social-sharing",
+    "wishlist",
+    "compare",
+    "quick-view",
+    "reviews",
+    "ratings",
+    "search",
+    "filters",
+    "pagination",
+    "breadcrumbs",
+    "newsletter",
+    "testimonials",
+    "blog",
+    "contact-form",
+    "multi-language",
+    "multi-currency",
+    "analytics",
+    "tracking",
+    "custom-css",
+    "custom-js"
+  ],
+  "compatibility": {
+    "salla": ">=3.0.0",
+    "php": ">=7.4",
+    "browsers": [
+      "Chrome >= 60",
+      "Firefox >= 60",
+      "Safari >= 12",
+      "Edge >= 79",
+      "iOS Safari >= 12",
+      "Android Chrome >= 60"
+    ]
+  },
+  "build": {
+    "commands": {
+      "dev": "npm run dev",
+      "build": "npm run build",
+      "test": "npm test",
+      "lint": "npm run lint",
+      "format": "npm run format"
+    },
+    "output": {
+      "css": "public/css",
+      "js": "public/js",
+      "images": "public/images",
+      "fonts": "public/fonts"
+    }
+  },
+  "performance": {
+    "lighthouse": {
+      "performance": 90,
+      "accessibility": 95,
+      "best-practices": 90,
+      "seo": 95,
+      "pwa": 90
+    },
+    "core-web-vitals": {
+      "lcp": "< 2.5s",
+      "fid": "< 100ms",
+      "cls": "< 0.1"
+    }
+  },
+  "security": {
+    "csp": true,
+    "xss-protection": true,
+    "content-type-options": true,
+    "frame-options": true,
+    "referrer-policy": true
+  }
+}
