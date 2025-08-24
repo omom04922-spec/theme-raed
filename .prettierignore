@@ -1,0 +1,311 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+.nuxt/
+.vuepress/dist/
+.serverless/
+.fusebox/
+.dynamodb/
+.tern-port
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+.nyc_output/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary folders
+tmp/
+temp/
+
+# Git
+.git/
+.gitignore
+.gitattributes
+.gitmodules
+
+# Documentation
+docs/
+*.md
+!README.md
+!CHANGELOG.md
+
+# Configuration files
+*.config.js
+*.config.ts
+*.config.mjs
+*.config.cjs
+webpack.config.*
+vite.config.*
+rollup.config.*
+tsconfig.json
+jsconfig.json
+.babelrc
+.babelrc.js
+.babelrc.json
+babel.config.*
+.eslintrc*
+.stylelintrc*
+.prettierrc*
+.editorconfig
+
+# Build tool configurations
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.pnp
+.pnp.js
+
+# Testing
+__tests__/
+*.test.js
+*.test.ts
+*.spec.js
+*.spec.ts
+jest.config.*
+cypress.config.*
+playwright.config.*
+
+# Linting
+.eslintcache
+.stylelintcache
+
+# Package manager
+.npm
+.yarn/
+.pnpm/
+
+# Docker
+Dockerfile
+docker-compose*.yml
+docker-compose*.yaml
+.dockerignore
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
+.circleci/
+appveyor.yml
+Jenkinsfile
+
+# Salla specific
+twilght.json
+theme-settings.json
+.salla/
+
+# Static assets
+public/
+static/
+assets/
+images/
+fonts/
+icons/
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Generated files
+*.generated.*
+*.auto.*
+
+# Vendor files
+vendor/
+third-party/
+libs/
+
+# Legacy browser support
+.browserslistrc
+
+# Service worker
+sw.js
+service-worker.js
+workbox-*.js
+
+# Manifest files
+manifest.json
+site.webmanifest
+
+# Sitemap and robots
+sitemap.xml
+robots.txt
+
+# Security
+.well-known/
+security.txt
+
+# Analytics
+analytics.js
+gtag.js
+fbevents.js
+
+# Monitoring
+sentry.js
+bugsnag.js
+
+# Performance
+lighthouse-report.html
+webpack-bundle-analyzer-report.html
+
+# Benchmarks
+benchmark/
+perf/
+
+# Examples
+examples/
+demo/
+sample/
+
+# Storybook
+.storybook/
+storybook-static/
+
+# Testing frameworks
+cypress/
+playwright/
+
+# Visual regression
+__image_snapshots__/
+__screenshots__/
+
+# Lighthouse
+lighthouse/
+
+# Bundle analyzer
+bundle-analyzer/
+
+# Source maps
+*.map
+
+# TypeScript
+*.tsbuildinfo
+
+# Cache
+.cache/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Husky
+.husky/
+
+# Lint-staged
+.lintstagedrc*
+
+# Commitizen
+.czrc
+
+# Semantic release
+.releaserc*
+release.config.*
+
+# Renovate
+renovate.json
+.renovaterc*
+
+# Dependabot
+.dependabot/
+
+# GitHub
+.github/
+
+# GitLab
+.gitlab/
+
+# Bitbucket
+bitbucket-pipelines.yml
+
+# Azure
+azure-pipelines.yml
+
+# AWS
+.aws/
+buildspec.yml
+
+# Google Cloud
+.gcloudignore
+cloudbuild.yaml
+
+# Heroku
+Procfile
+app.json
+
+# Netlify
+netlify.toml
+_redirects
+_headers
+
+# Vercel
+vercel.json
+.vercel/
+
+# Surge
+SURGE
+
+# Firebase
+firebase.json
+.firebaserc
+
+# Humans
+humans.txt
+
+# Offline
+offline.html
+
+# Lock files
+*.lock
